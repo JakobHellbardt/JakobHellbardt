@@ -12,9 +12,6 @@ Software Developer based in Germany. I am passionate about creating efficient ap
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakobHellbardt&layout=compact&theme=graywhite&hide_border=true)
-
 ### 🔒 Security Notice
 All my commits are cryptographically signed. Please verify the `Verified` badge on my contributions to ensure authenticity.
 
