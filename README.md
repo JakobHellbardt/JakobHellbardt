@@ -13,7 +13,7 @@ Software Developer based in Germany. I am passionate about creating efficient ap
 
 
 ### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakob Hellbardt&layout=compact&theme=graywhite&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@JakobHellbardt&layout=compact&theme=graywhite&hide_border=true)
 
 ### 🔒 Security Notice
 All my commits are cryptographically signed. Please verify the `Verified` badge on my contributions to ensure authenticity.
